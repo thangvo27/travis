@@ -5,5 +5,5 @@ jdk:
 os:
   - linux
 dist:
-  - trusty
   - precise
+  - trusty
